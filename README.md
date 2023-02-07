@@ -1,1 +1,1 @@
-# StackADT
+# Stack ADT Example
